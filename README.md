@@ -1,2 +1,3 @@
 # first_code-
-this is my first project -- it is written by omkar panhale 
+this is my first project .
+--it is written by omkar panhale 
