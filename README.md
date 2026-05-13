@@ -1,3 +1,3 @@
 # first code
 this is my first project .
---it is written by omkar panhale 
+it is written by omkar panhale 
